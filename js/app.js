@@ -5,6 +5,9 @@ const body = document.querySelector('body');
 const html = document.querySelector('html');
 const links = slideNav.querySelectorAll('a');
 
+/* Kullanıcı linklerden birine tıklayıp sayfayı yenilerse sayfanın otomatik hep aynı yere dönmesini engellemek için */
+window.scrollTo(0, 0);
+
 let menuOff = true;
 
 function openNav() {
