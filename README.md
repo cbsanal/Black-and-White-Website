@@ -11,6 +11,5 @@
 
 *Sitenin yüklenme hızını arttırmak amacıyla bütün resimler olabildiğince küçültülmüştür ve sitede yer alan youtube videoları kullanıcı tıklayana kadar yüklenmemektedir.
 
-*Proje' yi indirmek için sağ üstte bulunan Code yazısına tıkladıktan sonra, Download ZIP diyebilirsiniz, indirdikten sonra index.html dosyasını açarak siteyi görebilirsiniz veya
-direk bu siteyi ziyaret edebilirsiniz: https://blackandwhitewebsite.netlify.app
+*Siteyi buradan ziyaret edebilirsiniz: https://blackandwhitewebsite.netlify.app
 
