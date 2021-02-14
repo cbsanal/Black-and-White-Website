@@ -1,1 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" xmlns:v="https://vecta.io/nano"><path d="M1.44 16.873L0 24l7.128-1.437L24 5.7l-5.7-5.7L1.44 16.873zm4.7 3.847l-3.582.724.72-3.584 2.86 2.86zM21.172 5.7L7.555 19.307l-2.86-2.86L15.52 5.62l2.846 2.846 1.414-1.414-2.846-2.846L18.3 2.83l2.86 2.86z"/></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <path d="M1.44,16.873L0,24L7.128,22.563L24,5.7L18.3,0L1.44,16.873ZM6.14,20.72L2.558,21.444L3.278,17.86L6.138,20.72L6.14,20.72ZM21.172,5.7L7.555,19.307L4.695,16.447L15.52,5.62L18.366,8.466L19.78,7.052L16.934,4.206L18.3,2.83L21.16,5.69L21.172,5.7Z" style="fill:white;fill-rule:nonzero;"/>
+</svg>
