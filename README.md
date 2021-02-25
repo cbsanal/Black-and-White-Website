@@ -1,15 +1,13 @@
 # Pencil-Drawing-Website
 
-*Proje HTML/CSS ve JavaScript kullanılarak yapılmıştır.
+This is a personal project which I made to exercise CSS skills. 
+<ul>
+  <li>Fully responsive design</li>
+  <li>I used AOS (Animate On Scroll) library for animation</li>
+  <li>Different image loading according to devices screen size you visit the website</li>
+  <li>Not loading youtube videos until you click them</li>
+</ul>
+You can visit the website from: https://blackandwhitewebsite.netlify.app
 
-*Tasarımı tamamen responsive yapabilmek amacıyla buna uygun CSS özellikleri kullanılmıştır.
-
-<img src="./images/github-images/anasayfa.jpg">
-<img src="./images/github-images/anasayfa-mobil.jpg" width="200">
-
-*Sitede bulunan animasyonlar için AOS(Animate On Scroll) kütüphanesi kullanılmıştır.
-
-*Sitenin yüklenme hızını arttırmak amacıyla bütün resimler olabildiğince küçültülmüştür ve sitede yer alan youtube videoları kullanıcı tıklayana kadar yüklenmemektedir.
-
-*Siteyi buradan ziyaret edebilirsiniz: https://blackandwhitewebsite.netlify.app
-
+<img src="/images/github-images/anasayfa.jpg">
+<img src="/images/github-images/anasayfa-mobil.jpg" width="200">
